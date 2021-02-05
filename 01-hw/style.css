@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+#main-giphy {
+  flex-grow: 1;
+}
+
+#title-heading {
+  font-size: xx-large;
+}
+
